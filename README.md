@@ -7,7 +7,7 @@
 <h1>نهج | Nahj HCM</h1>
 <h3>إدارة الموارد البشرية، من الموظف إلى الأداء</h3>
 <p>نظام يجمع شؤون الموظفين والحضور والإجازات والرواتب وتقييم الأداء في مكان واحد.</p>
-<p>مركز التحميل الرسمي لتطبيق نهج على Windows.</p>
+<p>استخدم نهج من المتصفح أو حمّل تطبيق Windows.</p>
 
 <p>
   <img src="https://img.shields.io/github/v/release/wasl-downloads/nahj-hr-releases?style=flat-square&label=Latest%20release&color=2563eb" alt="أحدث إصدار مستقر" />
@@ -19,9 +19,13 @@
 <a href="https://github.com/wasl-downloads/nahj-hr-releases/releases/latest/download/nahj_hr_setup.exe">
   <img src="https://img.shields.io/badge/DOWNLOAD-WINDOWS%20x64-2563EB?style=for-the-badge&labelColor=1d4ed8" alt="تحميل أحدث إصدار من نهج لنظام Windows" height="48" />
 </a>
+&nbsp;
+<a href="https://webaman.net:287/">
+  <img src="https://img.shields.io/badge/OPEN-NAHJ%20WEB-334155?style=for-the-badge&labelColor=1e293b" alt="فتح نهج على الويب" height="48" />
+</a>
 
-<p><strong><a href="https://github.com/wasl-downloads/nahj-hr-releases/releases/latest/download/nahj_hr_setup.exe">تحميل أحدث إصدار لنظام Windows</a></strong></p>
-<p>تحميل مباشر للمثبّت · Windows 64-bit</p>
+<p><strong><a href="https://github.com/wasl-downloads/nahj-hr-releases/releases/latest/download/nahj_hr_setup.exe">تحميل أحدث إصدار لنظام Windows</a></strong> &nbsp; · &nbsp; <strong><a href="https://webaman.net:287/">فتح نهج على الويب</a></strong></p>
+<p>تحميل مباشر لـ Windows 64-bit · نسخة ويب تعمل من المتصفح دون تثبيت</p>
 
 <p>
   <a href="https://github.com/wasl-downloads/nahj-hr-releases/releases/latest/download/nahj_hr_windows_x64.zip">تحميل نسخة ZIP</a>
@@ -55,6 +59,9 @@
 
 <h2>ابدأ مع نهج</h2>
 
+<p><strong>من المتصفح:</strong> <a href="https://webaman.net:287/">افتح نهج على الويب</a> وسجّل الدخول بحسابك، دون الحاجة إلى تثبيت.</p>
+<p><strong>على Windows:</strong> اتبع الخطوات التالية لتثبيت التطبيق على جهازك.</p>
+
 <ol>
   <li><strong>حمّل التطبيق:</strong> اضغط زر التحميل أعلاه للحصول على أحدث مثبّت لنظام Windows 64-bit.</li>
   <li><strong>ثبّت نهج:</strong> افتح ملف <code>nahj_hr_setup.exe</code> واتبع خطوات التثبيت.</li>
@@ -74,6 +81,6 @@
 
 <hr />
 
-<p align="center"><strong>نهج | Nahj HCM</strong><br />الإصدارات الرسمية والتحديثات لنظام Windows</p>
+<p align="center"><strong>نهج | Nahj HCM</strong><br />نسخة الويب والإصدارات الرسمية لنظام Windows</p>
 
 </div>
